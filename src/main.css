@@ -1,0 +1,21 @@
+<style>
+
+.header{
+  background: url(https://www.walldevil.com/wallpapers/a59/white-yellow-field-black-wallpaper-image.jpg);
+  background-repeat:no-repeat;
+  background-position:center;
+  color: white;
+  font-family: Helvetica;
+  font-weight: lighter;
+}
+
+h1.header{
+font-size: 25px;
+}
+
+h2.header{
+font-size: 20px;
+margin-top:5px;
+}
+
+</style>
