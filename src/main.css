@@ -1,7 +1,6 @@
-<style>
 
 .header{
-  background: url(https://www.walldevil.com/wallpapers/a59/white-yellow-field-black-wallpaper-image.jpg);
+  background-image: url('https://www.walldevil.com/wallpapers/a59/white-yellow-field-black-wallpaper-image.jpg');
   background-repeat:no-repeat;
   background-position:center;
   color: white;
@@ -9,13 +8,11 @@
   font-weight: lighter;
 }
 
-h1.header{
+.header h1{
 font-size: 25px;
 }
 
-h2.header{
+.header h2{
 font-size: 20px;
 margin-top:5px;
 }
-
-</style>
